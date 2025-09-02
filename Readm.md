@@ -1,3 +1,3 @@
 Git Course
-Repositorio teste
+Repositorio teste ensinar como git funciona
 
